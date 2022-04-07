@@ -3,15 +3,15 @@
 3,France,Paris,Marseille,Lyon,Toulouse,Nice,Nantes,Montpellier,Strasbourg,Bordeaux,Lille,Rennes,Reims,Toulon,Saint-Étienne,Le Havre,Grenoble,Dijon,Angers,Saint-Denis,Villeurbanne
 4,Russia,Moscow,Saint Petersburg,Novosibirsk,Yekaterinburg,Kazan,Nizhny Novgorod,Chelyabinsk,Samara,Omsk,Rostov-on-Don,Ufa,Krasnoyarsk,Voronezh,Perm,Volgograd,Krasnodar,Saratov,Tyumen,Tolyatti,Izhevsk
 5,Sweden,Stockholm,Gothenburg,Malmö,Uppsala,Västerås,Örebro,Linköping,Helsingborg,Jönköping,Norrköping,Lund,Umeå,Gävle,Borås,Södertälje,Eskilstuna,Halmstad,Växjö,Karlstad,Sundsvall
-6,Norway,,,,,,,,,,,,,,,,,,,,
-7,Germany,,,,,,,,,,,,,,,,,,,,
-8,Ireland,,,,,,,,,,,,,,,,,,,,
-9,Finland,,,,,,,,,,,,,,,,,,,,
-10,Portugal,,,,,,,,,,,,,,,,,,,,
-11,Italy,,,,,,,,,,,,,,,,,,,,
-12,Lithuania,,,,,,,,,,,,,,,,,,,,
-13,Denmark,,,,,,,,,,,,,,,,,,,,
-14,Estonia,,,,,,,,,,,,,,,,,,,,
+6,Norway,Oslo,Bergen,Trondheim,Stavanger,Kristiansand,Fredrikstad,Sandnes,Tromsø,Skien,Drammen,Sarpsborg,Bodø,Sandefjord,Ålesund,Larvik,Arendal,Tønsberg,Porsgrunn,Haugesund,Hamar
+7,Germany,Berlin,Hamburg,Munich,Cologne,Frankfurt,Stuttgart,Düsseldorf,Dortmund,Essen,Leipzig,Bremen,Dresden,Hanover,Nuremburg,Duisberg,Bochum,Wuppertal,Bielefeld,Bonn,Münster
+8,Ireland,Dublin,Cork,Limerick,Galway,Waterford,Drogheda,Kilkenny,Wexford,Sligo,Clonmel,Dundalk,Bray,Navan,Ennis,Tralee,Carlow,Naas,Athlone,Letterkenny,Tullamore
+9,Finland,Helsinki,Espoo,Tampere,Vantaa,Oulu,Turku,Jyväskylä,Lahti,Kuopio,Pori,Kouvola,Joensuu,Lappeenranta,Hämeenlinna,Vaasa,Seinäjoki,Rovaniemi,Mikkeli,Kotka,Salo
+10,Portugal,Lisbon,Porto,Villa Nova de Gaia,Amadora,Braga,Funchal,Queluz,Coimbra,Setúbal,Almada,Agualva-Cacém,Gondomar,Leiria,Rio Tinto,Barreiro,Odivelas,Viseu,Aveiro,Póvoa de Varzim,Amora
+11,Italy,Rome,Milan,Naples,Turin,Palermo,Genoa,Bolonga,Florence,Bari,Catania,Verona,Venice,Messina,Padua,Trieste,Brescia,Parma,Taranto,Prato,Modena
+12,Lithuania,Vilnius,Kaunas,Klaipėda,Šiauliai,Panevėžys,Alytus,Marijampolė,Mažeikiai,Jonava,Utena,Kėdainiai,Tauragė,Telšiai,Ukmergė,Visaginas,Plungė,Kretinga,Palanga,Radviliškis,Šilutė
+13,Denmark,Copenhagen,Aarhus,Odense,Aalborg,Esbjerg,Randers,Kolding,Horsens,Vejle,Roskilde,Herning,Hørsholm,Helsingør,Silkeborg,Næstved,Fredericia,Viborg,Køge,Holstebro,Taastrup
+14,Estonia,Tallinn,Tartu,Narva,Pärnu,Kohtla-Järve,Viljandi,Maardu,Rakvere,Sillamäe,Kuressaare,Võru,Valga,Jõhvi,Haapsalu,Keila,Paide,Tapa,Põlva,Elva,Saue
 15,Netherlands,,,,,,,,,,,,,,,,,,,,
 16,Latvia,,,,,,,,,,,,,,,,,,,,
 17,Belgium,,,,,,,,,,,,,,,,,,,,
