@@ -4,9 +4,9 @@ import csv
 # CSV importing line from https://stackoverflow.com/a/26179929
 countries = list(csv.reader(open("countries.csv")))
 
-countryNum = random.randint(0,0)
+countryNum = random.randint(0,36)
 country = countries[countryNum][1]
 print(country)
-cityNum = random.randint(2,20)
+cityNum = random.randint(2,21)
 city = countries[countryNum][cityNum]
 print(city)
