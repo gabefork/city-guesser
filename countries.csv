@@ -12,21 +12,21 @@
 12,Lithuania,Vilnius,Kaunas,Klaipėda,Šiauliai,Panevėžys,Alytus,Marijampolė,Mažeikiai,Jonava,Utena,Kėdainiai,Tauragė,Telšiai,Ukmergė,Visaginas,Plungė,Kretinga,Palanga,Radviliškis,Šilutė
 13,Denmark,Copenhagen,Aarhus,Odense,Aalborg,Esbjerg,Randers,Kolding,Horsens,Vejle,Roskilde,Herning,Hørsholm,Helsingør,Silkeborg,Næstved,Fredericia,Viborg,Køge,Holstebro,Taastrup
 14,Estonia,Tallinn,Tartu,Narva,Pärnu,Kohtla-Järve,Viljandi,Maardu,Rakvere,Sillamäe,Kuressaare,Võru,Valga,Jõhvi,Haapsalu,Keila,Paide,Tapa,Põlva,Elva,Saue
-15,Netherlands,,,,,,,,,,,,,,,,,,,,
-16,Latvia,,,,,,,,,,,,,,,,,,,,
-17,Belgium,,,,,,,,,,,,,,,,,,,,
-18,Slovakia,,,,,,,,,,,,,,,,,,,,
-19,Andorra,,,,,,,,,,,,,,,,,,,,
-20,Slovenia,,,,,,,,,,,,,,,,,,,,
-21,Albania,,,,,,,,,,,,,,,,,,,,
-22,Greece,,,,,,,,,,,,,,,,,,,,
-23,Iceland,,,,,,,,,,,,,,,,,,,,
-24,Luxembourg,,,,,,,,,,,,,,,,,,,,
-25,Austria,,,,,,,,,,,,,,,,,,,,
-26,Poland,,,,,,,,,,,,,,,,,,,,
-27,Switzerland,,,,,,,,,,,,,,,,,,,,
-28,Bulgaria,,,,,,,,,,,,,,,,,,,,
-29,Hungary,,,,,,,,,,,,,,,,,,,,
+15,Netherlands,Amsterdam,Rotterdam,The Hague,Utrecht,Eindhoven,Tilburg,Groningen,Almere Stad,Breda,Nijmegen,Enschede,Haarlem,Arnhem,Zaanstad,Amersfoort,Apeldoorn,'s-Hertogenbosch,Hoofddorp,Maastricht,Leiden
+16,Latvia,Rīga ,Daugavpils,Liepāja,Jelgava,Jūrmala ,Ventspils ,Rēzekne ,Ogre ,Valmiera ,Jēkabpils,Salaspils,Tukums,Cēsis,Olaine,Kuldīga,Sigulda,Saldus,Talsi ,Dobele,Bauska
+17,Belgium,Antwerp,Ghent,Charleroi,Liège,Brussels,Bruges ,Namur,Leuven,Mons,Mechelen ,Aaist,La Louvière,Hasselt,Sint-Niklaas ,Kortrijk ,Ostend,Tournai,Genk,Seraing,Roeselare
+18,Slovakia,Bratislava,Košice,Prešov,Žilina,Banská Bystrica,Nitra,Trnava,Trenčín,Martin,Poprad,Prievidza,Zvolen,Považská Bystrica,Michalovce,Nové Zámky,Spišská Nová Ves,Komárno,Humenné,Levice,Bardejov
+19,Andorra,Andorra la Vella,Escaldes-Engordany,Encamp,Sant Julià de Lòria,La Massana,Santa Coloma,Pas de la Casa,Ordino,Canillo,Arinsal,Les Bons,El Tarter,Sispony,Vila,Soldeu,Aixirivall,L'Aldosa,Anyós,Incles,La Cortinada
+20,Slovenia,Ljubljana,Maribor,Kranj,Celje,Koper,Velenje,Novo Mesto,Ptuj,Kamnik,Trbovlje,Jesenice,Domžale,Nova Gorica,Izola,Škofja Loka,Murska Sobota,Logatec,Postojna,Vrhnika,Slovenska Bistrica
+21,Albania,Tirana,Durrës,Vlorë,Elbasan,Shkodër,Kamëz,Fier,Korçë,Berat,Lushnjë,Pogradec,Kavajë,Gjirokastër,Fushë-Krujë,Sarandë,Laç,Kukës,Sukth,Patos,Lezhë
+22,Greece,Αθήνα (Athína),Θεσσαλονίκη (Thessaloniki),Πάτρα (Patras),Πειραιάς  (Piraeus),Λάρισα (Larissa),Ηράκλειο (Heraklion),Περιστέρι (Peristeri),Καλλιθέα (Kallithea),Αχαρνές (Acharnes),Καλαμαριά (Kalamaria),Νίκαια (Nikaia),Γλυφάδα (Glyfada),Βόλος (Volos),Ίλιον (Ilion),Ηλιούπολη (Ilioupoli),Κερατσίνι (Keratsini),Εύοσμος (Evosmos),Χαλάνδρι (Chalandri),Νέα Σμύρνη (Nea Smyrni),Μαρούσι (Marousi)
+23,Iceland,Reykjavík,Kópavogur,Hafnarfjörður,Akureyri,Reykjanesbær,Garðabær,Mosfellsbær,Selfoss,Akranes,Seltjarnarnes,Vestmannaeyjar,Grindavík,Ísafjörður,Álftanes,Sauðárkrókur,Hveragerði,Egilsstaðir,Húsavík,Borgarnes,Sandgerði
+24,Luxembourg,Luxembourg,Esch-sur-Alzette,Dudelange,Schifflange,Bettembourg,Pétange,Ettelbruck,Diekirch,Strassen,Bertrange,Belvaux,Differdange,Mamer,Soleuvre,Wiltz,Echternach,Rodange,Obercorn,Bascharage,Kayl
+25,Austria,Vienna,Graz,Linz,Salzburg,Innsbruck,Klagenfurt am Wörthersee,Villach,Wels,Sankt Pölten,Dornbirn,Wiener Neustadt,Steyr,Feldkirch,Bregenz,Leonding,Klosterneuburg,Baden bei Wien,Wolfsberg,Leoben,Krems an der Donau
+26,Poland,Warsaw,Kraków,Łódź,Wrocław,Poznań,Gdańsk,Szczecin,Bydgoszcz,Lublin,Białystok,Katowice,Gdynia,Częstochowa,Radom,Toruń,Rzeszów,Sosnowiec ,Kielce,Gliwice,Olsztyn
+27,Switzerland,Zürich,Geneva,Basel,Lausanne,Bern,Winterthur,Lucerne,St. Gallen,Lugano,Biel (Bienne),Thun,Bellinzona,Köniz,Fribourg,Schaffhausen,La Chaux-de-Fonds,Chur,Uster,Sion,Vernier
+28,Bulgaria,Sofia,Plovdiv,Varna,Burgas,Ruse,Stara Zagora,Pleven,Sliven,Dobrich,Shumen,Pernik,Haskovo,Yambol,Pazardzhik,Blagoevgrad,Veliko Tarnovo,Vratsa,Gabrovo,Asenovgrad,Vidin
+29,Hungary,Budapest,Debrecen,Szeged,Miskolc,Pécs,Győr,Nyíregyháza,Kecskemét,Székesfehérvár,Szombathely,Érd,Szolnok,Tatabánya,Sopron,Kaposvár,Veszprém,Békéscsaba,Zalaegerszeg,Eger,Nagykanizsa
 30,Ukraine,,,,,,,,,,,,,,,,,,,,
 31,Croatia,,,,,,,,,,,,,,,,,,,,
 32,Serbia,,,,,,,,,,,,,,,,,,,,
