@@ -13,8 +13,8 @@
 13,Denmark,Copenhagen,Aarhus,Odense,Aalborg,Esbjerg,Randers,Kolding,Horsens,Vejle,Roskilde,Herning,Hørsholm,Helsingør,Silkeborg,Næstved,Fredericia,Viborg,Køge,Holstebro,Taastrup
 14,Estonia,Tallinn,Tartu,Narva,Pärnu,Kohtla-Järve,Viljandi,Maardu,Rakvere,Sillamäe,Kuressaare,Võru,Valga,Jõhvi,Haapsalu,Keila,Paide,Tapa,Põlva,Elva,Saue
 15,Netherlands,Amsterdam,Rotterdam,The Hague,Utrecht,Eindhoven,Tilburg,Groningen,Almere Stad,Breda,Nijmegen,Enschede,Haarlem,Arnhem,Zaanstad,Amersfoort,Apeldoorn,'s-Hertogenbosch,Hoofddorp,Maastricht,Leiden
-16,Latvia,Rīga ,Daugavpils,Liepāja,Jelgava,Jūrmala ,Ventspils ,Rēzekne ,Ogre ,Valmiera ,Jēkabpils,Salaspils,Tukums,Cēsis,Olaine,Kuldīga,Sigulda,Saldus,Talsi ,Dobele,Bauska
-17,Belgium,Antwerp,Ghent,Charleroi,Liège,Brussels,Bruges ,Namur,Leuven,Mons,Mechelen ,Aaist,La Louvière,Hasselt,Sint-Niklaas ,Kortrijk ,Ostend,Tournai,Genk,Seraing,Roeselare
+16,Latvia,Rīga,Daugavpils,Liepāja,Jelgava,Jūrmala,Ventspils,Rēzekne,Ogre,Valmiera,Jēkabpils,Salaspils,Tukums,Cēsis,Olaine,Kuldīga,Sigulda,Saldus,Talsi,Dobele,Bauska
+17,Belgium,Antwerp,Ghent,Charleroi,Liège,Brussels,Bruges,Namur,Leuven,Mons,Mechelen,Aaist,La Louvière,Hasselt,Sint-Niklaas ,Kortrijk,Ostend,Tournai,Genk,Seraing,Roeselare
 18,Slovakia,Bratislava,Košice,Prešov,Žilina,Banská Bystrica,Nitra,Trnava,Trenčín,Martin,Poprad,Prievidza,Zvolen,Považská Bystrica,Michalovce,Nové Zámky,Spišská Nová Ves,Komárno,Humenné,Levice,Bardejov
 19,Andorra,Andorra la Vella,Escaldes-Engordany,Encamp,Sant Julià de Lòria,La Massana,Santa Coloma,Pas de la Casa,Ordino,Canillo,Arinsal,Les Bons,El Tarter,Sispony,Vila,Soldeu,Aixirivall,L'Aldosa,Anyós,Incles,La Cortinada
 20,Slovenia,Ljubljana,Maribor,Kranj,Celje,Koper,Velenje,Novo Mesto,Ptuj,Kamnik,Trbovlje,Jesenice,Domžale,Nova Gorica,Izola,Škofja Loka,Murska Sobota,Logatec,Postojna,Vrhnika,Slovenska Bistrica
@@ -27,11 +27,11 @@
 27,Switzerland,Zürich,Geneva,Basel,Lausanne,Bern,Winterthur,Lucerne,St. Gallen,Lugano,Biel (Bienne),Thun,Bellinzona,Köniz,Fribourg,Schaffhausen,La Chaux-de-Fonds,Chur,Uster,Sion,Vernier
 28,Bulgaria,Sofia,Plovdiv,Varna,Burgas,Ruse,Stara Zagora,Pleven,Sliven,Dobrich,Shumen,Pernik,Haskovo,Yambol,Pazardzhik,Blagoevgrad,Veliko Tarnovo,Vratsa,Gabrovo,Asenovgrad,Vidin
 29,Hungary,Budapest,Debrecen,Szeged,Miskolc,Pécs,Győr,Nyíregyháza,Kecskemét,Székesfehérvár,Szombathely,Érd,Szolnok,Tatabánya,Sopron,Kaposvár,Veszprém,Békéscsaba,Zalaegerszeg,Eger,Nagykanizsa
-30,Ukraine,,,,,,,,,,,,,,,,,,,,
-31,Croatia,,,,,,,,,,,,,,,,,,,,
-32,Serbia,,,,,,,,,,,,,,,,,,,,
-33,Czechia,,,,,,,,,,,,,,,,,,,,
-34,North Macedonia,,,,,,,,,,,,,,,,,,,,
-35,Romania,,,,,,,,,,,,,,,,,,,,
-36,Montenegro,,,,,,,,,,,,,,,,,,,,
-37,Malta,,,,,,,,,,,,,,,,,,,,
+30,Ukraine,Kyiv,Kharkiv,Odessa,Dnipro,Donetsk,Zaporizhzhia,Lviv,Kryvyi Rih,Mykolaiv,Sevastopol,Mariupol,Luhansk,Vinnytsia,Makiivka,Simferopol,Chernihiv,Kherson,Poltava,Khmelnytskyi,Cherkasy
+31,Croatia,Zagreb,Split,Rijeka,Osijek,Zadar,Velika Gorica,Pula,Slavonski Brod,Karlovac,Varaždin,Šibenik,Dubrovnik,Sisak,Kaštela,Samobor,Bjelovar,Vinkovci,Koprivnica,Čakovec,Solin
+32,Serbia,Belgrade,Novi Sad,Niš,Kragujevac,Leskovac,Subotica,Kruševac,Kraljevo,Pančevo,Zrenjanin,Šabac,Čačak,Smederevo,Novi Pazar,Valjevo,Sombor,Vranje,Sremska Mitrovica,Loznica,Užice
+33,Czechia,Prague ,Brno,Ostrava,Plzeň ,Liberec,Olomouc,České Budějovice,Hradec Králové ,Ústí nad Labem,Pardubice,Zlín,Havířov,Kladno,Most,Opava ,Frýdek-Místek ,Jihlava,Karviná,Teplice ,Chomutov
+34,North Macedonia,Skopje,Bitola,Kumanovo,Prilep,Tetovo,Veles,Štip,Ohrid,Gostivar,Strumica,Kavadarci,Kočani,Kičevo,Struga,Radoviš,Gevgelija,Debar,Kriva Palanka,Sveti Nikole,Negotino
+35,Romania,Bucharest,Cluj-Napoca,Timișoara,Iași,Constanța,Craiova,Brașov,Galați,Ploiești,Oradea,Brăila,Arad,Pitești,Sibiu,Bacău,Târgu Mureș,Baia Mare,Buzău,Botoșani,Satu Mare
+36,Montenegro,Podgorica,Pljevlja,Ulcinj,Budva,Herceg Novi,Bijelo Polje,Cetinje,Plav,Bar,Berane,Mojkovac,Rožaje,Žabljak,Andrijevica,Prošćenje,Muo,Vojno Selo,Desni Meteh,Kavač,Bogajići
+37,Malta,Mellieha,Mgarr,St. Paul's Bay,Naxxar,St. Julian's,Sliema,Msida,Valletta,Birkirkara,Qormi,Marsa,Marsaskala,Zejtun,Ħal Għaxaq,Birżebbuġa,Zurrieq,Qrendi,Siggiewi,Ħad-Dingli,Rabat
